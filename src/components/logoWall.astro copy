@@ -1,8 +1,8 @@
 ---
 const technologies = [
-  "Bitcoin",
-  "Ethereum",
-  "Solana",
+  "astro",
+  "vue",
+  "react",
   "typeScript",
   "tailwindcss",
   "next",
